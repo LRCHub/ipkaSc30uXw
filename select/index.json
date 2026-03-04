@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Maniac",
+  "base_artist": "Conan Gray",
+  "createdAt": "2026-03-04T09:50:40.462201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maniac Drug Dealer III",
+      "artist": "Lil Ugly Mane",
+      "has_synced": true,
+      "path": "select/01_Maniac_Drug_Dealer_III_Lil_Ugly_Mane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Maniac",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_Maniac_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Maniac Thoughts",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/03_Maniac_Thoughts_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ego Maniac Kid",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/04_Ego_Maniac_Kid_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Maniac (feat. Conor Mason of Nothing But Thieves)",
+      "artist": "AWOLNATION feat. Nothing But Thieves",
+      "has_synced": true,
+      "path": "select/05_Maniac_(feat._Conor_Mason_of_Nothing_But_Thieves)_AWOLNATION_feat._Nothing_But_Thieves.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Maniac",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/06_Maniac_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Maniac (Live)",
+      "artist": "Carpenter Brut",
+      "has_synced": false,
+      "path": "select/07_Maniac_(Live)_Carpenter_Brut.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mecho Maniac",
+      "artist": "Keenhouse",
+      "has_synced": false,
+      "path": "select/08_Mecho_Maniac_Keenhouse.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]",
+      "artist": "Denzel Curry feat. Nyyjerya",
+      "has_synced": true,
+      "path": "select/09_CASH_MANIAC___CAZH_MAN1AC_[FEAT._NYYJERYA]_Denzel_Curry_feat._Nyyjerya.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cash Maniac | Cazh Man1ac (Feat. Nyyjerya)",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/10_Cash_Maniac___Cazh_Man1ac_(Feat._Nyyjerya)_Denzel_Curry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Maniac",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/11_Maniac_Caravan_Palace.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Matchbook Seeks Maniac",
+      "artist": "Deerhoof",
+      "has_synced": false,
+      "path": "select/12_Matchbook_Seeks_Maniac_Deerhoof.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Midnite Maniac",
+      "artist": "Krokus",
+      "has_synced": false,
+      "path": "select/13_Midnite_Maniac_Krokus.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Suicidal Maniac",
+      "artist": "Suicidal Tendencies",
+      "has_synced": true,
+      "path": "select/14_Suicidal_Maniac_Suicidal_Tendencies.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Maniac",
+      "artist": "John Maus",
+      "has_synced": false,
+      "path": "select/15_Maniac_John_Maus.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Maniac",
+      "artist": "Conan Gray",
+      "has_synced": false,
+      "path": "select/pl_01_Maniac_Conan_Gray.txt"
+    }
+  ]
+}
